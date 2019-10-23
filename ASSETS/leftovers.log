@@ -11,20 +11,20 @@ Exporter version: 6.2.1, Blender version: 2.80 (sub 75)
 		texture directory   :  C:\Users\User\Documents\GitHub\ricrobfanclubASSETS\ASSETS\
 	Python World class constructor completed
 	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
-	processing begun of mesh:  ricrob2019
-		processing begun of material:  Default.008
+	processing begun of mesh:  ricrob2019.001
+		processing begun of material:  Default.009
 			processing texture LOWPOLYSTRIATUM_Default_color
 				texture type:  diffuseTexture, mapped using: "UVMap"
 		Custom split normals with tangents being used
-		num positions      :  1100
-		num normals        :  1100
-		num tangents       :  4400
-		num uvs            :  2200
+		num positions      :  1311
+		num normals        :  1311
+		num tangents       :  5244
+		num uvs            :  2622
 		num uvs2           :  0
 		num colors         :  0
-		num indices        :  3210
+		num indices        :  3726
 ========= Writing of JSON file started =========
-	writing mesh:  ricrob2019
+	writing mesh:  ricrob2019.001
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.2908 secs
+elapsed time:  0 min, 0.3111 secs
