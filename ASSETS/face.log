@@ -1,0 +1,42 @@
+Exporter version: 6.2.1, Blender version: 2.80 (sub 75)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  C:\Users\User\Desktop\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature.001, id:  0
+		processing begun of bone:  Root, index:  0
+		processing begun of bone:  Spine_end_jnt, index:  1
+		processing begun of bone:  Neck_01_jnt, index:  2
+		processing begun of bone:  Neck_02_jnt, index:  3
+		processing begun of bone:  Neck_03_jnt, index:  4
+		processing begun of bone:  Head_jnt, index:  5
+	processing begun of node:  Armature
+	processing begun of mesh:  Louise_asym
+		processing begun of material:  sh_head_dx11.002
+		Custom split normals with tangents being used
+		num positions      :  5318
+		num normals        :  5318
+		num tangents       :  21272
+		num uvs            :  10636
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  29910
+		Skeleton stats:  
+			Total Influencers:  6130
+			Avg # of influencers per vertex:  1.1527
+			Highest # of influencers observed:  3, num vertices with this:  153
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  21272
+========= Writing of JSON file started =========
+	writing mesh:  Louise_asym
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.6859 secs
