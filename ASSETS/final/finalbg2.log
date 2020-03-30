@@ -18,10 +18,10 @@ Exporter version: 6.2.1, Blender version: 2.80 (sub 75)
 					'C:\\Users\\User\\Documents\\GitHub\\ricrobfanclubASSETS\\ASSETS\\final\\STRIATUMFINAL_default_color.png' and 'C:\\Users\\User\\Documents\\GitHub\\ricrobfanclubASSETS\\ASSETS\\final\\STRIATUMFINAL_default_color.png' are the same file
 				texture type:  diffuseTexture, mapped using: "UVMap"
 		Custom split normals with tangents being used
-		num positions      :  10023
-		num normals        :  10023
-		num tangents       :  40092
-		num uvs            :  20046
+		num positions      :  8303
+		num normals        :  8303
+		num tangents       :  33212
+		num uvs            :  16606
 		num uvs2           :  0
 		num colors         :  0
 		num indices        :  38064
@@ -29,4 +29,4 @@ Exporter version: 6.2.1, Blender version: 2.80 (sub 75)
 	writing mesh:  Group63990
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.5488 secs
+elapsed time:  0 min, 5.0645 secs
